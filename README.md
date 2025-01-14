@@ -34,4 +34,3 @@ Sou um desenvolvedor Backend apaixonado por criar soluções robustas e escaláv
 
 ## 📫 Como me encontrar
 - 📍 Bauru - São Paulo, Brasil
-- 💼 Aberto a novas oportunidades e colaborações
