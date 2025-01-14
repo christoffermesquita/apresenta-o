@@ -4,7 +4,7 @@
 Sou um desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis. Atualmente, estou cursando Sistemas de Informação na ITE (Instituição Toledo de Ensino) e trabalho como desenvolvedor na Nexum Tecnologia.
 
 ## 🚀 Experiência Profissional
-- 💼 Desenvolvedor Backend na Nexum Tecnologia
+- 💼 Desenvolvedor Backend
 - 🔧 Especializado em desenvolvimento de APIs RESTful
 - 📚 Foco em arquiteturas escaláveis e boas práticas de desenvolvimento
 
